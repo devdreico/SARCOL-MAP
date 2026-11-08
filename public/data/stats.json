@@ -1,0 +1,114 @@
+{
+  "total": 5000,
+  "by_family": {
+    "public": 3811,
+    "civil": 42,
+    "private": 1112,
+    "infrastructure": 21,
+    "international": 6,
+    "state_company": 8
+  },
+  "by_level": {
+    "nacional": 673,
+    "departamental": 1400,
+    "municipal": 2087,
+    "judicial": 1,
+    "regional": 839
+  },
+  "by_sector": {
+    "Planeación": 1510,
+    "Salud": 744,
+    "Organismos de Control": 735,
+    "Comercio": 364,
+    "Manufactura": 314,
+    "Servicios": 281,
+    "Comercio, Industria y Turismo": 119,
+    "Construcción": 87,
+    "Función Pública": 85,
+    "Educación": 72,
+    "Vivienda, Ciudad y Territorio": 72,
+    "Ambiente y Desarrollo Sostenible": 70,
+    "Cultura": 58,
+    "Agricultura y Desarrollo Rural": 53,
+    "Minas y Energía": 47,
+    "Transporte": 44,
+    "Hacienda y Crédito Público": 43,
+    "Minero": 39,
+    "Defensa": 38,
+    "Deporte": 37,
+    "Agropecuario": 26,
+    "Justicia y Derecho": 15,
+    "Tecnologías de la Información y Comunicaciones": 15,
+    "Inclusión Social y Reconciliación": 14,
+    "Trabajo": 12
+  },
+  "by_department": {
+    "Bogotá D.c..": 1003,
+    "Antioquia": 641,
+    "Cundinamarca": 336,
+    "Valle del Cauca": 284,
+    "Santander": 269,
+    "Boyacá": 266,
+    "Bolívar": 163,
+    "Tolima": 157,
+    "Atlántico": 156,
+    "Nariño": 156,
+    "Caldas": 135,
+    "Norte de Santander": 128,
+    "Huila": 116,
+    "Cauca": 113,
+    "Magdalena": 104,
+    "Meta": 98,
+    "Cesar": 98,
+    "Córdoba": 95,
+    "Risaralda": 91,
+    "Sucre": 71,
+    "Chocó": 69,
+    "Casanare": 66,
+    "Bogotá D.C..": 62,
+    "Quindío": 61,
+    "La Guajira": 51,
+    "Putumayo": 44,
+    "Caquetá": 43,
+    "Arauca": 26,
+    "Amazonas": 23,
+    "Guainía": 19,
+    "Guaviare": 16,
+    "Vaupés": 15,
+    "Vichada": 14,
+    "Archipiélago de San Andrés, Providencia y Santa Catalina": 11
+  },
+  "by_confidence": {
+    "A": 3807,
+    "B": 1134,
+    "C": 59
+  },
+  "sources": [
+    {
+      "name": "MinTIC / SIGEP — directorio georreferenciado de entidades",
+      "url": "https://www.datos.gov.co/Organizaci-n-Institucional/Directorio-de-entidades-del-Estado-colombiano/kqut-4h4r",
+      "date": "2026",
+      "license": "Datos abiertos"
+    },
+    {
+      "name": "SIGEP II — empleo público",
+      "url": "https://www.datos.gov.co/Funci-n-P-blica/SIGEP-II/h8rs-jxum",
+      "date": "2026",
+      "license": "Datos abiertos"
+    },
+    {
+      "name": "Superintendencia de Sociedades — 10.000 empresas",
+      "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/10-000-empresas/6cat-2gcs",
+      "date": "2025",
+      "license": "Datos abiertos"
+    },
+    {
+      "name": "DANE — DIVIPOLA",
+      "url": "https://www.datos.gov.co/Estad-sticas/DIVIPOLA/gdxc-w37w",
+      "date": "2025",
+      "license": "Datos abiertos"
+    }
+  ],
+  "updated": "2026-10-27",
+  "note": "Selección curada de 5.000 registros. No es un censo exhaustivo de todas las entidades del Estado ni de todas las empresas."
+}
